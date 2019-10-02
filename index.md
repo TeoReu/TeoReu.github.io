@@ -1,26 +1,11 @@
-## Welcome to GitHub Pages
+## About
+I am studying Computer Science and Mathematics at University of Manchester. I am passionate about Pure Maths because I love mathematical reasoning and making links between different mathematical fields, such as Number Theory, Group Theory, Graph Theory, Linear Algebra, Analisys, Topology, and so on. In my mind all of them are representing a very beautiful chain. Applied Maths is also beutiful because, if the other one was rather abstract, seeing actual appications in real life of mathematics gives a sense of the work you are putting in while doing maths.
+Now... Computer Science.
+If Mathematics gives me this feeling of an endlees field that waits to be explored, Computer Science most deffinetly remainds me of the infinite dark space field by scattered stars, planets etc. So many possible choises, direction. It is a subject that grows more and more, as hours pass. My whole life I was fascinated by robots whom were able to take decisions, games, web designing... In college, I got involved in many Computer Scinces realted activities. I built with a team mead of my class mates a robot who was able to move, read color and preset images, raise and throw cubes, I interfaced Raspberry Pi with electronic components like sensors and PIRs. Solving problems with algorithms. 
 
-You can use the [editor on GitHub](https://github.com/TeoReu/teoreu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#Hobbies
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+I enjoy
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
