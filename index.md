@@ -8,5 +8,5 @@ If Mathematics gives me this feeling of an endless field that waits to be explor
 
 I also have a Visual Portofolio which I'm pround of:
 ![image](luna.jpg) ![image](huh.jpg) ![image](fg.jpg)
-![image](boschetaulcolor.jpg) ![image](dansatoare.jpg)
+![image](boschetarulcolor.jpg) ![image](dansatoare.jpg)
 ![image](lolol.jpg)
