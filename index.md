@@ -6,16 +6,7 @@ I am studying Computer Science and Mathematics at the University of Manchester. 
 If Mathematics gives me this feeling of an endless field that waits to be explored, Computer Science most definetly reminds me of the infinite dark space filled by scattered stars, planets, etc. My whole life I was fascinated by robots who were able to take decisions, games, web designing... In college, I got involved in many Computer Science related activities. I built with some of my class mates a robot who was able to move, read color and preset images, raise and throw cubes, I interfaced Raspberry Pi with electronic components like sensors and PIRs. Solving problems with algorithms. Developing a 2D platformer with my own costumisation for the pricipal character.
 
 
-
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TeoReu/teoreu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I also have a Visual Portofolio which I'm pround of:
+![image](luna.jpg) ![image](huh.jpg) ![image](fg.jpg)
+![image](boschetaulcolor.jpg) ![image](dansatoare.jpg)
+![image](lolol.jpg)
