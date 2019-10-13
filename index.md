@@ -9,7 +9,7 @@ Mathematical research papers:
 
 [Link](ExplorationLab-ShufflingCards.pdf)
 
-[Link](Euler_s_Identity(8).pdf)
+[Link](Euler_s_Identity (8).pdf)
 
 I also have a Visual Portofolio which I'm pround of:
 ![image](luna.jpg) ![image](huh.jpg) ![image](fg.jpg)
