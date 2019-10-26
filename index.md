@@ -1,7 +1,8 @@
 ![image](DSC_0924.jpg)
 ## About
 I am studying Computer Science and Mathematics at the University of Manchester. I am passionate about Pure Maths because I love mathematical reasoning and making links between different mathematical fields, such as Number Theory, Group Theory, Graph Theory, Linear Algebra, Analysis, Topology, and so on.
-In college, I got involved in many Computer Science related activities. I built with some of my class mates a robot who was able to move, read color and preset images, raise and throw cubes, I interfaced Raspberry Pi with electronic components like sensors and PIRs. Solving problems with algorithms. Developing a 2D platformer with my own costumisation for the pricipal character.
+
+In college, I got involved in many Computer Science related activities. I built with some of my class mates a robot who was able to move, read coluor and preset images, raise and throw cubes upwards. I interfaced Raspberry Pi with electronic components like sensors and PIRs. Solved problems with algorithms in either C++ or Python. I developed a 2D platformer with my own costumisation for the pricipal character.
 
 Mathematical research papers:
 
