@@ -4,8 +4,10 @@ I am studying Computer Science and Mathematics at the University of Manchester. 
 In college, I got involved in many Computer Science related activities. I built with some of my class mates a robot who was able to move, read color and preset images, raise and throw cubes, I interfaced Raspberry Pi with electronic components like sensors and PIRs. Solving problems with algorithms. Developing a 2D platformer with my own costumisation for the pricipal character.
 
 Mathematical research papers:
-[Shuffling Cards paper:](ExplorationLab-ShufflingCards.pdf)
-[Euler's identity](Euler_s_Identity (8).pdf)
+
+\item [Shuffling Cards](ExplorationLab-ShufflingCards.pdf)
+
+\item [Euler's identity](Euler_s_Identity (8).pdf)
 
 I also have a Visual Portofolio which I'm pround of:
 ![image](luna.jpg) ![image](huh.jpg) ![image](fg.jpg)
