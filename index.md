@@ -5,9 +5,9 @@ In college, I got involved in many Computer Science related activities. I built 
 
 Mathematical research papers:
 
-\item [Shuffling Cards](ExplorationLab-ShufflingCards.pdf)
+[Shuffling Cards](ExplorationLab-ShufflingCards.pdf)
 
-\item [Euler's identity](Euler_s_Identity (8).pdf)
+[Euler's identity](Euler_s_Identity (8).pdf)
 
 I also have a Visual Portofolio which I'm pround of:
 ![image](luna.jpg) ![image](huh.jpg) ![image](fg.jpg)
