@@ -11,6 +11,6 @@ Mathematical research papers:
 In college, I got involved in many Computer Science related activities. I built with some of my class mates a robot who was able to move, read colors and preset images, raise and throw cubes upwards. I interfaced Raspberry Pi with electronic components like sensors and PIRs. Solved problems with algorithms in either C++ or Python. I developed a 2D platformer with my own costumisation for the pricipal character.
 
 I also have a Visual Portofolio which I'm pround of:
-![image](luna.jpg) ![image](huh.jpg) ![image](fg.jpg)
-![image](boschetarulcolor.jpg) ![image](dansatoare.jpg)
+![image](manchester.jpg) ![image](boschetarulcolor.jpg) ![image](fg.jpg)
+![image](luna.jpg) ![image](dansatoare.jpg)
 ![image](lolol.jpg) ![image](crima2.jpg)
