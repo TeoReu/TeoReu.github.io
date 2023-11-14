@@ -2,13 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Researcher @ Microsoft Research. Previously @ Google Brain, Google X, Twitter Cortex.
-
+subtitle: PhD Student at University of Oxford
 
 
 profile:
   align: right
-  image: teo_prof.jpg
+  image: prof_pic.jpeg
   image_circular: true # crops the image to make it circular
   # address: 
     # <p>555 your office number</p>
