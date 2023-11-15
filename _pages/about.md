@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at University of Oxford
+subtitle: DPhil in Computer Science at University of Oxford
 
 
 profile:
@@ -16,6 +16,6 @@ projects: true
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi there! I am Teo, a first year DPhil in Computer Science under the supervised by Proffesor Michael Bronstein. My research area interest in in Geometric Deep Learning, Diffusion Models, and spectral GNNs.
+Hey! I'm Teo, currently in my first year of DPhil in Computer Science, working under the guidance of [Professor Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/). My research focuses on Geometric Deep Learning, Diffusion Models, and spectral Graph Neural Networks (GNNs).
 
-Previosly, I have been studied towards a MPhil in Advanced Computer Science at University of Cambridge, graduating with distinction. While in Cambridge my research focused on Graph Neural Networks (more exactly variational and attentional approaches to graph rewiring under the supervision of [Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), [Francesco Di Giovanni](https://francescodgv.github.io/), [Chaitanya Joshi](https://www.chaitjo.com/)) and theoretical remarks for diffusion samplers under the supervision of [Fracisco Vargas](https://www.cst.cam.ac.uk/people/fav25). 
+Before this, I did my MPhil in Advanced Computer Science at the University of Cambridge, where I graduated with distinction. During my time there, I dug into the world of Graph Neural Networks, specifically looking into variational and attentional approaches to graph rewiring. I was lucky to work with [Professor Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), [Francesco Di Giovanni](https://francescodgv.github.io/), and [Chaitanya Joshi](https://www.chaitjo.com/). I also dabbled in theoretical aspects of diffusion samplers under the guidance of [Francisco Vargas](https://www.cst.cam.ac.uk/people/fav25). Looking forward to the exciting journey ahead!
