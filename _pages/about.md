@@ -22,4 +22,4 @@ Before this, I did my MPhil in Advanced Computer Science at the University of Ca
 
 My industry experience is varied from big tech, to start ups, and then to finance company, I worked as a software engineer summer intern at Google, R3, and BlackRock. 
 
-PS: I am also a very exited and passionate mathematician! I love mathematics! Was very fortunate to work as a counsellor this summer at PROMYS, helping international olympiad level highschoolers discover Number Theory and Group Theory from first principles. 
+PS: I am also a very exited and passionate mathematician! I love mathematics! Was very fortunate to work as a counsellor this summer at [PROMYS](https://promys-europe.org/), helping international olympiad level highschoolers discover Number Theory and Group Theory from first principles. 
